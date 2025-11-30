@@ -1,0 +1,1 @@
+# Deploy-a-Static-Website-on-EC2-Using-Terraform-and-Automate-Updates-Through-Jenkins
