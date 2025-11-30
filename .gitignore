@@ -1,0 +1,17 @@
+.venv
+/.idea
+# Terraform local files
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+
+# Keys
+*.pem
+*.key
+
+# Sensitive files
+*.tfvars
+
+
