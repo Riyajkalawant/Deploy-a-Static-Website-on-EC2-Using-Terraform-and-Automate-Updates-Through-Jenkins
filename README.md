@@ -16,7 +16,7 @@
 - Nginx Web Server
 - ubuntu 
 
-   ![](./img/github%20repo.png)
+   ![](./img/)
 
 * ## Project Structure
 
